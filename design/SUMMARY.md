@@ -4,7 +4,9 @@
 
 ## User Flows
 
-* [User Flows](user-flows/user-flows.md)
+* [Overview](user-flows/overview.md)
+* [Creator's Workflow](user-flows/creators-workflow.md)
+* [Entrant's Workflow](user-flows/entrants-workflow.md)
 
 ## Technical Architecture
 
