@@ -25,7 +25,7 @@
 
 ## Data Models and APIs
 
-* [Data Models and APIs](data-models-and-apis/data-models-and-apis.md)
+* [Data Models and APIs Overview](data-models-and-apis/data-models-and-apis-overview.md)
 
 ## Security Considerations
 
