@@ -11,6 +11,8 @@
 ## Technical Architecture
 
 * [Technical Architecture](technical-architecture/technical-architecture.md)
+* [Components Overview](technical-architecture/components-overview.md)
+* [Interactions Overview](technical-architecture/interactions-overview.md)
 
 ## Raffle Mechanics
 
