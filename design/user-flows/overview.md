@@ -4,7 +4,7 @@ The user flows outline the primary interactions within the Rafflecast platform, 
 
 • [Creator’s Workflow](creators-workflow.md): This flow covers the steps for setting up and managing raffles, including defining criteria, rewards, and publishing options. It also outlines the process for sharing raffles with the community, including options to share on Warpcast, X/Twitter, or specific channels.
 
-• Entrant’s Workflow: This flow details how entrants discover, enter, and track raffle results. It includes steps for logging in via Warpcast, verifying eligibility through criteria, and participating in raffles.
+• [Entrant’s Workflow](entrants-workflow.md): This flow details how entrants discover, enter, and track raffle results. It includes steps for logging in via Warpcast, verifying eligibility through criteria, and participating in raffles.
 
 
 
