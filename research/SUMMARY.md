@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Warpcast / Forecaster](README.md)
-* [Verifiable Randomness Functions](verifiable-randomness-functions.md)
+## Farcaster
+
+* [Warpcast / Forecaster Docs](README.md)
+
+## Onchain
+
+* [Verifiable Randomness Functions](onchain/verifiable-randomness-functions.md)

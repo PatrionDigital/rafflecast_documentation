@@ -2,5 +2,5 @@
 description: Research notes for Warpcast / Farcaster protocol.
 ---
 
-# Warpcast / Forecaster
+# Warpcast / Forecaster Docs
 
