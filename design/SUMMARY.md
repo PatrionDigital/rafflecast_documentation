@@ -4,19 +4,24 @@
 
 ## User Flows
 
-* [Overview](user-flows/overview.md)
+* [Workflows Overview](user-flows/workflows-overview.md)
 * [Creator's Workflow](user-flows/creators-workflow.md)
 * [Entrant's Workflow](user-flows/entrants-workflow.md)
 
 ## Technical Architecture
 
-* [Technical Architecture](technical-architecture/technical-architecture.md)
+* [Technical Architecture Overview](technical-architecture/technical-architecture-overview.md)
 * [Components Overview](technical-architecture/components-overview.md)
 * [Interactions Overview](technical-architecture/interactions-overview.md)
 
 ## Raffle Mechanics
 
-* [Raffle Mechanics](raffle-mechanics/raffle-mechanics.md)
+* [Raffle Mechanics Overview](raffle-mechanics/raffle-mechanics-overview.md)
+* [Raffle Creation](raffle-mechanics/raffle-creation.md)
+* [Entrant Participation](raffle-mechanics/entrant-participation.md)
+* [Prize Distribution](raffle-mechanics/prize-distribution.md)
+* [Raffle Settlement and Winner Selection](raffle-mechanics/raffle-settlement-and-winner-selection.md)
+* [Raffle Management and Tracking](raffle-mechanics/raffle-management-and-tracking.md)
 
 ## Data Models and APIs
 
