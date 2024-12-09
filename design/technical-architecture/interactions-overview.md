@@ -19,5 +19,5 @@
 
 * VRF on the Base rollup determines winners.
 * Backend coordinates:
-* Offchain prize distribution.
-* Interaction with the blockchain for onchain rewards.
+  * Offchain prize distribution.
+  * Interaction with the blockchain for onchain rewards.
