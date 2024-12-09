@@ -2,7 +2,7 @@
 
 ## Flow Diagram
 
-```
+```mermaid
 graph TD;
     A[Receive Raffle Link] --> B[Log In or Create Warpcast Account];
     B --> C[Check Raffle Criteria];

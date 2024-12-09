@@ -2,17 +2,19 @@
 
 ## Flow Diagram
 
+```mermaid
+graph TD
+    A[Creator Logs In] --> B[Create Raffle]
+    B --> C[Define Raffle Criteria]
+    C --> D[Set Closing Date]
+    D --> E["Optional: Set Prize Distribution (Offchain/Onchain)"]
+    E --> F[Publish Raffle to Warpcast Channel]
+    F --> G["Manage Raffles (by Channel)"]
+    G --> H[Track Entrants]
+    H --> I["Automatically Reward Winner (Offchain/Onchain)"]
 ```
-graph TD;
-    A[Creator Logs In] --> B[Create Raffle];
-    B --> C[Define Raffle Criteria];
-    C --> D[Set Closing Date];
-    D --> E[Optional: Set Prize Distribution (Offchain/Onchain)];
-    E --> F[Publish Raffle to Warpcast Channel];
-    F --> G[Manage Raffles (by Channel)];
-    G --> H[Track Entrants];
-    H --> I[Automatically Reward Winner (Offchain/Onchain)];
-```
+
+
 
 ## Flow Description
 
