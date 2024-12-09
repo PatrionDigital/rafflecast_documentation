@@ -1,5 +1,21 @@
 # Creator's Workflow
 
+## Flow Diagram
+
+```
+graph TD;
+    A[Creator Logs In] --> B[Create Raffle];
+    B --> C[Define Raffle Criteria];
+    C --> D[Set Closing Date];
+    D --> E[Optional: Set Prize Distribution (Offchain/Onchain)];
+    E --> F[Publish Raffle to Warpcast Channel];
+    F --> G[Manage Raffles (by Channel)];
+    G --> H[Track Entrants];
+    H --> I[Automatically Reward Winner (Offchain/Onchain)];
+```
+
+## Flow Description
+
 1. Raffle Creation\
    The creator accesses the Rafflecast dApp to create a new raffle. This involves:
    * Setting Criteria: The creator defines the rules for participation, including criteria such as owning specific tokens, following accounts, joining channels, or engaging with content.

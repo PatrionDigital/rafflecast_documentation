@@ -1,5 +1,20 @@
 # Entrant's Workflow
 
+## Flow Diagram
+
+```
+graph TD;
+    A[Receive Raffle Link] --> B[Log In or Create Warpcast Account];
+    B --> C[Check Raffle Criteria];
+    C --> D{Meets Criteria?};
+    D -- Yes --> E[Enter Raffle];
+    D -- No --> F[Exit or Reattempt];
+    E --> G[Confirm Entry];
+    G --> H[Wait for Winner Announcement];
+```
+
+## Flow Description
+
 1. Discover the Raffle\
    The entrant encounters the raffle through various means:
    * Shared on Warpcast Channel: The raffle is shared in a Warpcast channel, where the entrant can see the details and participate.
