@@ -14,3 +14,7 @@
 
 * [Social Graph](social-graph/social-graph.md)
 * [SG - Predicate](social-graph/sg-predicate.md)
+
+## Adjacent Services/Platforms
+
+* [List Up](adjacent-services-platforms/list-up.md)
