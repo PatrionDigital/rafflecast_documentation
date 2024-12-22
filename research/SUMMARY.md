@@ -3,6 +3,7 @@
 ## Farcaster
 
 * [Warpcast / Forecaster Docs](README.md)
+* [Farcaster - SIWF](farcaster/farcaster-siwf.md)
 
 ## Onchain
 
