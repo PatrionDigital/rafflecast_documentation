@@ -29,7 +29,6 @@ Raffles can be in one of three phases:
   * No further changes allowed. Backed handles prize distribution to confirmed winners.
 
 ```mermaid
-// Raffle State Diagram
 stateDiagram-v2
     [*] --> Active: Raffle is open for participation
     Active --> Settled: Entry period ends and winners are selected
