@@ -14,6 +14,9 @@
   * Defining raffle parameters (criteria, closing date, prize distribution).
   * Publishing raffles to Warpcast channels.
   * Backend synchronizes onchain and offchain criteria with the database and smart contracts.
+* Warpcast Action facilitates:
+  * Quickly creating a Raffle from the selected cast
+  * Raffle criteria are more limited than in the full dApp
 
 ### For Selection and Prize Distribution:
 

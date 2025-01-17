@@ -5,9 +5,9 @@
 ## User Flows
 
 * [Workflows Overview](user-flows/workflows-overview.md)
-* [1. Workflows - Creator's Workflow](user-flows/1.-workflows-creators-workflow.md)
-* [2. Workflows - Entrant's Workflow](user-flows/2.-workflows-entrants-workflow.md)
-* [3. Workflows - Entry Weights](user-flows/3.-workflows-entry-weights.md)
+* [1. Creator's Workflow](user-flows/1.-creators-workflow.md)
+* [2. Entrant's Workflow](user-flows/2.-entrants-workflow.md)
+* [3. Entry Weights](user-flows/3.-entry-weights.md)
 
 ## Technical Architecture
 
@@ -18,11 +18,11 @@
 ## Raffle Mechanics
 
 * [Raffle Mechanics Overview](raffle-mechanics/raffle-mechanics-overview.md)
-* [Raffle Creation](raffle-mechanics/raffle-creation.md)
-* [Entrant Participation](raffle-mechanics/entrant-participation.md)
-* [Prize Distribution](raffle-mechanics/prize-distribution.md)
-* [Raffle Settlement and Winner Selection](raffle-mechanics/raffle-settlement-and-winner-selection.md)
-* [Raffle Management and Tracking](raffle-mechanics/raffle-management-and-tracking.md)
+* [1. Raffle Creation](raffle-mechanics/1.-raffle-creation.md)
+* [2. Entrant Participation](raffle-mechanics/2.-entrant-participation.md)
+* [3. Raffle Settlement and Winner Selection](raffle-mechanics/3.-raffle-settlement-and-winner-selection.md)
+* [4. Prize Distribution](raffle-mechanics/4.-prize-distribution.md)
+* [5. Raffle Management and Tracking](raffle-mechanics/5.-raffle-management-and-tracking.md)
 
 ## Data Models and APIs
 
@@ -40,6 +40,8 @@
 ## Development Environment
 
 * [Development Environment](development-environment/development-environment.md)
+* [Documentation Guidelines and Format](development-environment/documentation-guidelines-and-format.md)
+* [Glossary of Terms](development-environment/glossary-of-terms.md)
 
 ## Testing and QA
 
