@@ -5,8 +5,9 @@
 ## User Flows
 
 * [Workflows Overview](user-flows/workflows-overview.md)
-* [Creator's Workflow](user-flows/creators-workflow.md)
-* [Entrant's Workflow](user-flows/entrants-workflow.md)
+* [1. Workflows - Creator's Workflow](user-flows/1.-workflows-creators-workflow.md)
+* [2. Workflows - Entrant's Workflow](user-flows/2.-workflows-entrants-workflow.md)
+* [3. Workflows - Entry Weights](user-flows/3.-workflows-entry-weights.md)
 
 ## Technical Architecture
 
