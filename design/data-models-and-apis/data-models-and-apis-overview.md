@@ -11,7 +11,7 @@ description: >-
 
 1. Data Models\
    The various data models used in the project, with specific attention to:
-   * Raffle Model:
+   * [Raffle Model](data-models-raffle-model.md):
      * Raffle metadata (e.g., criteria, prizes, start/close dates, etc.)
      * Connections to entrants, creator, and the Warpcast channel where it’s shared
    * Entrant Model:

@@ -26,6 +26,7 @@
 ## Data Models and APIs
 
 * [Data Models and APIs Overview](data-models-and-apis/data-models-and-apis-overview.md)
+* [Data Models - Raffle Model](data-models-and-apis/data-models-raffle-model.md)
 
 ## Security Considerations
 
