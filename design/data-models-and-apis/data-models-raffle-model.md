@@ -29,12 +29,11 @@ Raffles can be in one of three phases:
   * No further changes allowed. Backed handles prize distribution to confirmed winners.
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Active: Raffle is open for participation
-    Active --> Settled: Entry period ends and winners are selected
-    Settled --> Active: Re-opened due to a challenge (optional)
-    Settled --> Finalized: Challenge period ends or winners are confirmed
-    Finalized --> [*]: Raffle is completed
+graph LR
+    A[Active] -->|Entry period ends<br>and winners are selected| B[Settled]
+    B -->|Re-opened due to a valid challenge| A
+    B -->|Challenge period ends<br>or winners are confirmed| C[Finalized]
+    C -->|Raffle is completed| D[End]
 ```
 
 
