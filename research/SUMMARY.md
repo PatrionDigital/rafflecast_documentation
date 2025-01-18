@@ -10,6 +10,7 @@
 * [Verifiable Randomness Functions](onchain/verifiable-randomness-functions.md)
 * [VRF - Gelato](onchain/vrf-gelato.md)
 * [VRF - Drand](onchain/vrf-drand.md)
+* [Papers](onchain/papers.md)
 
 ## Social Graph
 
